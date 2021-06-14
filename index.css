@@ -96,7 +96,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: rgba(31, 30, 30, 0);
+	background-color: rgb(31, 30, 30);
 	transition: 0.3s ease background-color ;
 	
 }
@@ -235,7 +235,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 0.65);
+	background-color: rgba(0, 0, 0, 0.452);
 	opacity: 0.7;
 	z-index: -1;
 }
